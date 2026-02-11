@@ -15,7 +15,7 @@
         localStorage.setItem("savedUsername", username);
         localStorage.setItem("savedPassword", password);
         alert("✅ Sign-up Successful! Now you can login.");
-        window.location.href = "login page.html";
+        window.location.href = "login.html";
       }
     </script>
     <style>
