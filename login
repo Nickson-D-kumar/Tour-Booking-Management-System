@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -103,7 +103,7 @@
           inputPassword === savedPassword
         ) {
           alert("✅ Login Successful!");
-          window.location.href = "dashboard.html"; // Redirect to home page
+          window.location.href = "homepage.html"; // Redirect to home page
         } else {
           alert("❌ Incorrect Username or Password");
         }
